@@ -13,9 +13,13 @@ public class Main {
             System.out.println("Entrada proibida!");
         } else if (idade <= 59){
             System.out.println("Entrada liberada");
+            System.out.println("Aproveite a festa");
         } else {
             System.out.println("Entrada Especial");
+            System.out.println("Aproveite a festa");
         }
+
+
 
     }
 }
